@@ -6,7 +6,7 @@ This repository includes some simulation examples for the prescribed-time contro
 
 1- The 2-DOF manipulator: PTC_ex1.rar
 
-2- An n-domensional normal form nonlinear system: PTC_ex2.rar
+2- An n-dimensional normal form nonlinear system: PTC_ex2.rar
 
 
 ## License(s)
