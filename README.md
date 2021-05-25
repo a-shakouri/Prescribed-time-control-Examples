@@ -8,6 +8,8 @@ This repository includes some simulation examples for the prescribed-time contro
 
 2- An n-dimensional normal form nonlinear system: PTC_ex2.rar
 
+3- Input/output constrained PTC for uncertain double and triple-integrator systems: PTC_ex3.rar
+
 
 ## License(s)
 
