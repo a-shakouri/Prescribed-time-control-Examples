@@ -10,6 +10,8 @@ This repository includes some simulation examples for the prescribed-time contro
 
 3- Input/output constrained PTC for uncertain double and triple-integrator systems: PTC_ex3.rar
 
+4- Model-free PTC for reaction wheel pendulum: PTC_ex4.rar
+
 
 ## License(s)
 
