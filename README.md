@@ -12,7 +12,7 @@ This repository includes some simulation examples for the prescribed-time contro
 
 4- Model-free PTC for reaction wheel pendulum: PTC_ex4.rar
 
-5- Prescribed-time state-dependent Riccati equation (PT-SDRE) controller applied to a 2nd-order system: PT-SDRE controller.rar
+5- Prescribed-time state-dependent Riccati equation (PT-SDRE) controller applied to a three-dimensional system: PT-SDRE controller.rar
 
 
 ## License(s)
